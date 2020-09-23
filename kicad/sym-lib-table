@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TZXCassetteParts)(type Legacy)(uri ${KIPRJMOD}/TZXCassetteParts.lib)(options "")(descr ""))
+)
